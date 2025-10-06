@@ -60,6 +60,10 @@
 ;; to avoid confusion, 'file-line' refers to a line in the dataset file,
 ;; while 'line' refers to a line of a poem
 
+;; TODO: pair this with a dataset
+;; look into this: https://www.americanhaikuarchives.org/research/guidetoresearch.html
+;; (also maybe write a README and add the TODOs there)
+
 ;;; Code:
 (eval-when-compile (require 'cl-lib))
 
